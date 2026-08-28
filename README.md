@@ -2,7 +2,6 @@
 
 <h3 align="center">B.Sc. IT Student | Coding Enthusiast | AI Enthusiast</h3>
 
----
 
 ### 👩‍💻 About Me
 
