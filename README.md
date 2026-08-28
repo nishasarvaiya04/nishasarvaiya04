@@ -10,11 +10,6 @@
 - 🤖 Interested in Artificial Intelligence and AI Tools
 - 🌱 Always learning and exploring new technologies
 
-  ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishasarvaiya04&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
-</p>
 
 
 ## 🌐 Socials
