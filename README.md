@@ -52,6 +52,6 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> 💻 *"Code is not just about solving problems, it's about creating possibilities."*
 
 [![](https://komarev.com/ghpvc/?username=nishasarvaiya04&icon=0&color=0)](https://visitcount.itsvg.in)
